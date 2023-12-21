@@ -13,9 +13,6 @@ public class Region extends BaseTuple{
         this.r_name = r_name;
         this.r_comment = r_comment;
     }
-    public Region(){
-
-    }
 
     @Override
     public Long getPrimaryKey() {

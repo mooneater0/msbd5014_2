@@ -46,38 +46,5 @@ public class Nation extends BaseTuple{
     }
 
 
-    public Long getN_nationkey() {
-        return n_nationkey;
-    }
 
-    public void setN_nationkey(Long n_nationkey) {
-        this.n_nationkey = n_nationkey;
-    }
-
-    public String getN_name() {
-        return n_name;
-    }
-
-    public void setN_name(String n_name) {
-        this.n_name = n_name;
-    }
-
-    public Long getR_regionkey() {
-        return r_regionkey;
-    }
-
-    public void setR_regionkey(Long r_regionkey) {
-        this.r_regionkey = r_regionkey;
-    }
-
-    public String getN_comment() {
-        return n_comment;
-    }
-
-    public void setN_comment(String n_comment) {
-        this.n_comment = n_comment;
-    }
-
-    public Nation() {
-    }
 }

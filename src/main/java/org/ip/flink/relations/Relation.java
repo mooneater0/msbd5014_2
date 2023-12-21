@@ -25,10 +25,6 @@ public class Relation {
     public boolean isLeaf=false;
 
 
-    public void setR_rcIndexes(ArrayList<IndexOfRelationAndChildRelation> r_rcIndexes) {
-        this.r_rcIndexes = r_rcIndexes;
-    }
-
 
 
 
